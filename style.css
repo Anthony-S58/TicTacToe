@@ -13,43 +13,102 @@ body {
     justify-content: center;
     align-items: center;
     border: 1px solid black;
+    margin-top: 50px;
 }
 
 .cadre1{
     height: 100px;
     width: 100px;
     border:1px solid black;
+    color: black;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
 }
 .cadre2{
     height: 100px;
     width: 100px;
     border:1px solid black;
-}.cadre3{
+    color: black;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cadre3{
     height: 100px;
     width: 100px;
     border:1px solid black;
-}.cadre4{
+    color: black;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cadre4{
     height: 100px;
     width: 100px;
     border:1px solid black;
-}.cadre5{
+    color: black;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cadre5{
     height: 100px;
     width: 100px;
     border:1px solid black;
-}.cadre6{
+    color: black;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cadre6{
     height: 100px;
     width: 100px;
     border:1px solid black;
-}.cadre7{
+    color: black;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cadre7{
     height: 100px;
     width: 100px;
     border:1px solid black;
-}.cadre8{
+    color: black;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cadre8{
     height: 100px;
     width: 100px;
     border:1px solid black;
-}.cadre9{
+    color: black;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cadre9{
     height: 100px;
     width: 100px;
     border:1px solid black;
+    color: black;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cadre1:hover,.cadre2:hover,.cadre3:hover,.cadre4:hover,.cadre5:hover,.cadre6:hover,.cadre7:hover,.cadre8:hover,.cadre9:hover{
+    background-color: blanchedalmond;
+    cursor: pointer;
 }
